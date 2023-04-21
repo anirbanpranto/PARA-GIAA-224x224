@@ -1,4 +1,4 @@
-#PARA Dataset
+# PARA Dataset
 
 ---
 ### Paper：Personalized Image Aesthetics Assessment with Rich Attributes(PARA)
@@ -29,7 +29,7 @@ PARA
     PARA-GiaaTrain.csv : score distribution annotation for training GIAA model with PARA.
 ```
 
-###Annotation Explanation of PIAA
+### Annotation Explanation of PIAA
 
 ```
 PIAA annotation files include: PARA-Images.csv
@@ -52,7 +52,7 @@ col 14: willingness to share score.
 col 15: scene category label.
 ```
 
-###Annotation Explanation of Subject Information
+### Annotation Explanation of Subject Information
 
 ```
 PIAA annotation files include: PARA-UserInfo.csv
@@ -66,7 +66,7 @@ col 5: photographyExperience: beginner, competent, proficient, expert
 col 6-10: Big-Five personality traits score.
 ```
 
-###Annotation Explanation of GIAA
+### Annotation Explanation of GIAA
 
 ```
 Note that PIAA annotation in PARA can also be transferred into "image-aesthetic score distribution" pair for training GIAA, since each image's aesthetic score is annotated by multiple annotators as well. 
