@@ -1,4 +1,4 @@
-# PARA Dataset
+# PARA Dataset (Resized to 224x224)
 
 ---
 ### Paper：Personalized Image Aesthetics Assessment with Rich Attributes(PARA)
